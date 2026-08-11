@@ -1,7 +1,5 @@
 # Hi, I'm Kane 👋
 
----
-
 ## 🔌 Integration Ecosystem
 
 | Integration | Description | Repo |
